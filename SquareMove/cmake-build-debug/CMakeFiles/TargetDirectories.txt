@@ -1,0 +1,3 @@
+D:/C++/SquareMove/cmake-build-debug/CMakeFiles/SquareMove.dir
+D:/C++/SquareMove/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/SquareMove/cmake-build-debug/CMakeFiles/rebuild_cache.dir
